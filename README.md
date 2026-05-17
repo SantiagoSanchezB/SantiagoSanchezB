@@ -72,13 +72,46 @@ portfolio: Coming soon
 </tr>
 </table>
 
-| | |
-|:---:|:---|
-| ▸ | **Microsoft 365 & Power Platform** — Power Apps, Automate, Dataverse, SharePoint |
-| ▸ | **Full stack** — APIs, services, interfaces, and data models |
-| ▸ | **Analytics** — Power BI dashboards, advanced Excel, and Power Query |
-| ▸ | **Automation** — workflows that reduce manual work and operational errors |
-| ▸ | **Collaboration** — engineering, IT, and end-user digital adoption |
+### Core strengths
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Microsoft 365 & Power Platform**  
+<br/><sub>Power Apps · Automate · Dataverse · SharePoint</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Full stack development**  
+<br/><sub>APIs · services · interfaces · data models</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Analytics & reporting**  
+<br/><sub>Power BI · advanced Excel · Power Query</sub>
+
+</td>
+<td valign="top">
+
+**Automation**  
+<br/><sub>Workflows that reduce manual work and operational errors</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+**Cross-team collaboration**  
+<br/><sub>Engineering, IT, and end-user digital adoption</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
