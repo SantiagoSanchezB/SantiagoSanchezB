@@ -204,43 +204,6 @@ Bogotá, Colombia
 
 <br/>
 
-<!-- ─── LOGROS ──────────────────────────────────────────────────────────────── -->
-
-## Logros destacados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Automatización de procesos**  
-Flujos con Power Automate, Power Apps, Office Scripts, C# y Python que redujeron tareas manuales en reportes y documentos internos.
-
-</td>
-<td width="50%" valign="top">
-
-**Analítica y reporting**  
-Tableros en Power BI y Excel para horas, avance de proyectos y métricas operativas — mayor visibilidad para líderes técnicos y de negocio.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Calidad de datos**  
-Consolidación y transformación con SQL Server y Power Query, mejorando consistencia y confiabilidad entre proyectos.
-
-</td>
-<td width="50%" valign="top">
-
-**Colaboración técnica**  
-Diseño de soluciones full stack con equipos de ingeniería y TI, apoyando adopción de herramientas digitales por usuarios finales.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <!-- ─── EDUCACIÓN ───────────────────────────────────────────────────────────── -->
 
 ## Educación
@@ -255,58 +218,10 @@ Diseño de soluciones full stack con equipos de ingeniería y TI, apoyando adopc
 
 ## Actividad en GitHub
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoSanchezB&theme=dark&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=58D9F9&fire=A78BFA&currStreakLabel=58D9F9&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSanchezB&layout=compact&theme=dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58D9F9&text_color=E6EDF3&icon_color=A78BFA&border_color=30363D" alt="Top Languages" width="48%"/>
-
-</motion.div>
-
-<br/>
-
-<!-- ─── PROYECTOS / IMPACTO ─────────────────────────────────────────────────── -->
-
-## Impacto & repositorios
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Power Apps & gestión documental
-> Aplicaciones internas para procesos de ingeniería y seguimiento de proyectos en entorno empresarial.
-
-`Power Apps` `SharePoint` `SQL Server`
-
-</td>
-<td width="50%" valign="top">
-
-### Automatización & Azure
-> Flujos con Power Automate y servicios cloud que optimizan reportes y tareas repetitivas.
-
-`Power Automate` `Azure` `Python` `C#`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Analítica operativa
-> Dashboards y reportes para horas, costos y KPIs con Power BI y Excel avanzado.
-
-`Power BI` `Power Query` `Office Scripts`
-
-</td>
-<td width="50%" valign="top">
-
-### Portafolio & código abierto
-> Repositorios personales y portafolio web en construcción.
-
-[![GitHub](https://img.shields.io/badge/Ver_perfil-58D9F9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/SantiagoSanchezB)
-[![Próximamente](https://img.shields.io/badge/Portafolio-próximamente-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoSanchezB&theme=dark&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=58D9F9&fire=A78BFA&currStreakLabel=58D9F9&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSanchezB&layout=compact&theme=dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58D9F9&text_color=E6EDF3&icon_color=A78BFA&border_color=30363D&hide=html,css" alt="Lenguajes más usados" height="165"/>
+</p>
 
 <br/>
 
