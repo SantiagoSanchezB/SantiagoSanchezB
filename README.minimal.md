@@ -32,7 +32,7 @@ Power Apps, internal web, Node/C#/Python/Java/PHP, SQL Server & MySQL, Power BI,
 
 ### GitHub
 
-![Streak](https://streak-stats.demolab.com/?user=SantiagoSanchezB&theme=dark&background=0D1117&ring=58D9F9&fire=A78BFA)
+![Streak](https://streak-stats.demolab.com/?user=SantiagoSanchezB&theme=dark&background=0D1117&ring=3FB950&fire=56D364)
 
 ![Tech icons](https://skillicons.dev/icons?i=js,react,vue,nextjs,nodejs,java,php,python,azure,docker,git,mysql&theme=dark)
 

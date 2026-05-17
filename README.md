@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      PROFILE · Santiago Sánchez · @SantiagoSanchezB
-     Palette: Obsidian Flow — #0D1117 · #58D9F9 · #A78BFA · #E6EDF3
+     Palette: Emerald Night — #0D1117 · #3FB950 · #56D364 · #7EE787
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -9,14 +9,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" viewBox="0 0 900 120" fill="none">
   <defs>
     <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#58D9F9" stop-opacity="0.9"/>
-      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#58D9F9" stop-opacity="0.4"/>
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#7EE787" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#3FB950" stop-opacity="0.4"/>
     </linearGradient>
     <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58D9F9" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#58D9F9" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3FB950" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7EE787" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect width="900" height="120" rx="12" fill="#0D1117"/>
@@ -28,15 +28,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=450&size=24&duration=3000&pause=1400&color=58D9F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Digital+solutions+engineer;Node.js+%C2%B7+React+%C2%B7+APIs+%C2%B7+Cloud;Automation+%26+analytics;Ship+maintainable%2C+business-driven+products" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=450&size=24&duration=3000&pause=1400&color=3FB950&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Digital+solutions+engineer;Node.js+%C2%B7+React+%C2%B7+APIs+%C2%B7+Cloud;Automation+%26+analytics;Ship+maintainable%2C+business-driven+products" alt="Typing intro" />
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SantiagoSanchezB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoSanchezB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-sanchez-buitrago-206943211/)
 [![Email](https://img.shields.io/badge/Email-santiago.sanchezda%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.sanchezda@gmail.com)
-[![Tel](https://img.shields.io/badge/Phone-+57_301_384_5330-58D9F9?style=for-the-badge&logo=whatsapp&logoColor=0D1117)](tel:+573013845330)
-[![Location](https://img.shields.io/badge/Bogot%C3%A1%2C_CO-161B22?style=for-the-badge&logo=googlemaps&logoColor=58D9F9)](#)
+[![Tel](https://img.shields.io/badge/Phone-+57_301_384_5330-3FB950?style=for-the-badge&logo=whatsapp&logoColor=0D1117)](tel:+573013845330)
+[![Location](https://img.shields.io/badge/Bogot%C3%A1%2C_CO-161B22?style=for-the-badge&logo=googlemaps&logoColor=3FB950)](#)
 
 </div>
 
@@ -169,10 +169,10 @@ portfolio: Coming soon
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=0D1117)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0D1117)
+![React](https://img.shields.io/badge/React-3FB950?style=flat-square&logo=react&logoColor=0D1117)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-22C55E?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </details>
 
@@ -198,7 +198,7 @@ portfolio: Coming soon
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=0D1117)
-![Kanban](https://img.shields.io/badge/Kanban-Agile-58D9F9?style=flat-square&logo=trello&logoColor=0D1117)
+![Kanban](https://img.shields.io/badge/Kanban-Agile-3FB950?style=flat-square&logo=trello&logoColor=0D1117)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=flat-square&logo=microsoft&logoColor=white)
 ![Office Scripts](https://img.shields.io/badge/Office_Scripts-217346?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -252,7 +252,7 @@ Bogotá, Colombia
 ## GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantiagoSanchezB&theme=dark&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=58D9F9&fire=A78BFA&currStreakLabel=58D9F9&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SantiagoSanchezB&theme=dark&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=3FB950&fire=56D364&currStreakLabel=3FB950&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" height="165"/>
 </p>
 
 <p align="center">
