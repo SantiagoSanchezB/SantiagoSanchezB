@@ -6,35 +6,36 @@
 
 ---
 
-Full Stack Developer con **+3 años** construyendo aplicaciones empresariales y automatizando procesos en **Microsoft 365**. Backend con Node.js, Java y PHP; frontend con React, Vue y Next.js; datos con SQL Server, MySQL, Power BI y Power Query. Enfoque en productos mantenibles, orientados al negocio y equipos ágiles (Kanban).
+Full Stack Developer with **3+ years** building enterprise applications and automating workflows in **Microsoft 365**. Backend with Node.js, Java, and PHP; frontend with React, Vue, and Next.js; data with SQL Server, MySQL, Power BI, and Power Query. Focus on maintainable, business-driven products and agile teams (Kanban).
 
 ---
 
-### Experiencia
+### Experience
 
 **Graduate Digital Solutions Consultant** · Worley · `2021–2026` · Bogotá  
 
-Power Apps, web interna, Node/C#/Python/Java/PHP, SQL Server & MySQL, Power BI, Power Automate, Azure, Kanban.
+Power Apps, internal web, Node/C#/Python/Java/PHP, SQL Server & MySQL, Power BI, Power Automate, Azure, Kanban.
 
-### Educación
+### Education
 
-**Ingeniería de Sistemas** (en curso) · Universidad EAN · Bogotá · `2022–presente`
+**Systems Engineering** (in progress) · Universidad EAN · Bogotá · `2022–present`
 
 ### Stack
 
-| Área | Tecnologías |
+| Area | Technologies |
 |------|-------------|
 | Backend | Node.js · Java (Spring Boot) · PHP (Laravel) · Python (Flask) · C# |
 | Frontend | JavaScript · React · Vue · Next.js · Tailwind |
 | Microsoft & Cloud | Azure · AWS · Power Apps · Power Automate · Dataverse · Power BI · SharePoint |
-| Datos | SQL Server · MySQL · Excel · Power Query · Office Scripts · VBA |
-| Herramientas | Docker · Git · Linux · Kanban |
+| Data | SQL Server · MySQL · Excel · Power Query · Office Scripts · VBA |
+| Tools | Docker · Git · Linux · Kanban |
 
 ### GitHub
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoSanchezB&theme=dark&background=0D1117&ring=58D9F9&fire=A78BFA)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSanchezB&layout=compact&theme=dark&bg_color=0D1117&title_color=58D9F9)
+![Streak](https://streak-stats.demolab.com/?user=SantiagoSanchezB&theme=dark&background=0D1117&ring=58D9F9&fire=A78BFA)
+
+![Tech icons](https://skillicons.dev/icons?i=js,react,vue,nextjs,nodejs,java,php,python,azure,docker,git,mysql&theme=dark)
 
 ---
 
-*Portafolio web en construcción.*
+*Personal portfolio — coming soon.*

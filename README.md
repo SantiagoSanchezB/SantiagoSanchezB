@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     PERFIL · Santiago Sánchez · @SantiagoSanchezB
-     Paleta: Obsidian Flow — #0D1117 · #58D9F9 · #A78BFA · #E6EDF3
+     PROFILE · Santiago Sánchez · @SantiagoSanchezB
+     Palette: Obsidian Flow — #0D1117 · #58D9F9 · #A78BFA · #E6EDF3
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -21,51 +21,51 @@
   </defs>
   <rect width="900" height="120" rx="12" fill="#0D1117"/>
   <rect x="1" y="1" width="898" height="118" rx="11" stroke="url(#glow)" stroke-width="1" fill="none" opacity="0.35"/>
-  <text x="450" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8B949E" letter-spacing="3">FULL STACK · MICROSOFT 365 · AUTOMATIZACIÓN</text>
+  <text x="450" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8B949E" letter-spacing="3">FULL STACK · MICROSOFT 365 · AUTOMATION</text>
   <text x="450" y="88" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="600" fill="url(#glow)">Santiago Sánchez</text>
   <line x1="200" y1="108" x2="700" y2="108" stroke="url(#line)" stroke-width="1.5"/>
 </svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=1200&color=58D9F9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Soluciones+digitales+con+Microsoft+365;Node.js+%C2%B7+React+%C2%B7+Power+Platform+%C2%B7+Azure;Productos+mantenibles%2C+orientados+al+negocio" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=1200&color=58D9F9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Digital+solutions+with+Microsoft+365;Node.js+%C2%B7+React+%C2%B7+Power+Platform+%C2%B7+Azure;Maintainable%2C+business-driven+products" alt="Typing intro" />
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SantiagoSanchezB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoSanchezB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-sanchez-buitrago-206943211/)
 [![Email](https://img.shields.io/badge/Email-santiago.sanchezda%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.sanchezda@gmail.com)
-[![Tel](https://img.shields.io/badge/Tel-+57_301_384_5330-58D9F9?style=for-the-badge&logo=whatsapp&logoColor=0D1117)](tel:+573013845330)
+[![Tel](https://img.shields.io/badge/Phone-+57_301_384_5330-58D9F9?style=for-the-badge&logo=whatsapp&logoColor=0D1117)](tel:+573013845330)
 [![Location](https://img.shields.io/badge/Bogot%C3%A1%2C_CO-161B22?style=for-the-badge&logo=googlemaps&logoColor=58D9F9)](#)
 
 </div>
 
 <br/>
 
-<!-- ─── SOBRE MÍ ─────────────────────────────────────────────────────────── -->
+<!-- ─── ABOUT ──────────────────────────────────────────────────────────────── -->
 
-## Sobre mí
+## About me
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-**Full Stack Developer** y tecnólogo en soluciones digitales con **+3 años de experiencia** construyendo aplicaciones empresariales y automatizando procesos en el ecosistema **Microsoft 365**.
+**Full Stack Developer** and digital solutions technologist with **3+ years of experience** building enterprise applications and automating workflows across the **Microsoft 365** ecosystem.
 
-Trabajo entre backend (Node.js, Java, PHP), frontend moderno (React, Vue, Next.js) y el stack de datos y analítica (**SQL Server**, **Power BI**, **Power Query**). Me enfoco en productos **mantenibles y orientados al negocio**, colaborando con equipos multidisciplinares bajo metodologías ágiles.
+I work across backend (Node.js, Java, PHP), modern frontend (React, Vue, Next.js), and data & analytics (**SQL Server**, **Power BI**, **Power Query**). I focus on **maintainable, business-driven products**, collaborating with cross-functional teams using agile practices.
 
 </td>
 <td width="42%" valign="top">
 
 ```yaml
-nombre: Santiago Sánchez
-rol: Full Stack Developer
-empresa: Worley
-ubicación: Bogotá, Colombia
-experiencia: +3 años
-metodología: Kanban / Ágil
-educación: Ing. Sistemas (en curso)
-portafolio: En construcción
+name: Santiago Sánchez
+role: Full Stack Developer
+company: Worley
+location: Bogotá, Colombia
+experience: 3+ years
+methodology: Kanban / Agile
+education: Systems Engineering (in progress)
+portfolio: Coming soon
 ```
 
 </td>
@@ -75,16 +75,16 @@ portafolio: En construcción
 | | |
 |:---:|:---|
 | ▸ | **Microsoft 365 & Power Platform** — Power Apps, Automate, Dataverse, SharePoint |
-| ▸ | **Full stack** — APIs, servicios, interfaces y modelos de datos |
-| ▸ | **Analítica** — dashboards en Power BI, Excel avanzado y Power Query |
-| ▸ | **Automatización** — flujos que reducen trabajo manual y errores operativos |
-| ▸ | **Colaboración** — equipos técnicos, TI y usuarios finales en adopción digital |
+| ▸ | **Full stack** — APIs, services, interfaces, and data models |
+| ▸ | **Analytics** — Power BI dashboards, advanced Excel, and Power Query |
+| ▸ | **Automation** — workflows that reduce manual work and operational errors |
+| ▸ | **Collaboration** — engineering, IT, and end-user digital adoption |
 
 <br/>
 
-<!-- ─── LO QUE HAGO ───────────────────────────────────────────────────────── -->
+<!-- ─── WHAT I DO ─────────────────────────────────────────────────────────── -->
 
-## Lo que hago
+## What I do
 
 <table>
 <tr>
@@ -100,24 +100,24 @@ portafolio: En construcción
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="Data"/>
-<br/><sub><b>Datos</b></sub>
+<br/><sub><b>Data</b></sub>
 <br/><sub>SQL Server · MySQL · Power BI</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Automation"/>
-<br/><sub><b>Automatización</b></sub>
+<br/><sub><b>Automation</b></sub>
 <br/><sub>Power Automate · Python · Office Scripts</sub>
 </td>
 </tr>
 </table>
 
-> *Enfoque actual:* aplicaciones internas, gestión documental, reporting operativo y flujos que conectan ingeniería, datos y negocio.
+> *Current focus:* internal applications, document management, operational reporting, and workflows connecting engineering, data, and business.
 
 <br/>
 
 <!-- ─── STACK ─────────────────────────────────────────────────────────────── -->
 
-## Stack tecnológico
+## Tech stack
 
 <details open>
 <summary><b>Backend</b></summary>
@@ -144,7 +144,7 @@ portafolio: En construcción
 </details>
 
 <details open>
-<summary><b>Cloud, Microsoft & datos</b></summary>
+<summary><b>Cloud, Microsoft & data</b></summary>
 <br/>
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -159,24 +159,24 @@ portafolio: En construcción
 </details>
 
 <details>
-<summary><b>Herramientas & explorando</b></summary>
+<summary><b>Tools & exploring</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=0D1117)
-![Kanban](https://img.shields.io/badge/Kanban-Ágil-58D9F9?style=flat-square&logo=trello&logoColor=0D1117)
+![Kanban](https://img.shields.io/badge/Kanban-Agile-58D9F9?style=flat-square&logo=trello&logoColor=0D1117)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=flat-square&logo=microsoft&logoColor=white)
 ![Office Scripts](https://img.shields.io/badge/Office_Scripts-217346?style=flat-square&logo=microsoftoffice&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-Automatización-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </details>
 
 <br/>
 
-<!-- ─── EXPERIENCIA ───────────────────────────────────────────────────────── -->
+<!-- ─── EXPERIENCE ─────────────────────────────────────────────────────────── -->
 
-## Experiencia
+## Experience
 
 <table>
 <tr>
@@ -191,12 +191,12 @@ Bogotá, Colombia
 </td>
 <td width="72%" valign="top">
 
-- Desarrollo de aplicaciones internas con **Power Apps** y tecnologías web para ingeniería, gestión documental y seguimiento de proyectos.
-- Backend y servicios con **Node.js**, **C#**, **Python**, **Java** y **PHP**, integrando múltiples fuentes de datos.
-- Modelado y administración de bases de datos en **SQL Server** y **MySQL** (analítica y soporte a chatbots internos).
-- Dashboards y reportes con **Power BI**, **Excel**, **Power Query** y **Office Scripts** (horas, costos, KPIs).
-- Automatización con **Power Automate**, **Azure** y scripts propios, reduciendo tiempos y errores en tareas repetitivas.
-- Trabajo en equipos ágiles **Kanban** con disciplinas técnicas y de negocio.
+- Built internal applications with **Power Apps** and web technologies for engineering, document management, and project tracking.
+- Developed backend services with **Node.js**, **C#**, **Python**, **Java**, and **PHP**, integrating multiple data sources.
+- Designed and managed **SQL Server** and **MySQL** databases (analytics and internal chatbot support).
+- Created dashboards and reports with **Power BI**, **Excel**, **Power Query**, and **Office Scripts** (hours, costs, operational KPIs).
+- Automated workflows with **Power Automate**, **Azure**, and custom scripts, reducing processing time and errors.
+- Collaborated in **Kanban** agile teams across technical and business disciplines.
 
 </td>
 </tr>
@@ -204,39 +204,42 @@ Bogotá, Colombia
 
 <br/>
 
-<!-- ─── EDUCACIÓN ───────────────────────────────────────────────────────────── -->
+<!-- ─── EDUCATION ───────────────────────────────────────────────────────────── -->
 
-## Educación
+## Education
 
-| Período | Título | Institución |
+| Period | Degree | Institution |
 |:--:|:---|:---|
-| `2022` — presente | **Ingeniería de Sistemas** | Universidad EAN · Bogotá, Colombia |
+| `2022` — present | **Systems Engineering** | Universidad EAN · Bogotá, Colombia |
 
 <br/>
 
-<!-- ─── ACTIVIDAD ─────────────────────────────────────────────────────────── -->
+<!-- ─── GITHUB ACTIVITY ─────────────────────────────────────────────────────── -->
 
-## Actividad en GitHub
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoSanchezB&theme=dark&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=58D9F9&fire=A78BFA&currStreakLabel=58D9F9&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSanchezB&layout=compact&theme=dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58D9F9&text_color=E6EDF3&icon_color=A78BFA&border_color=30363D&hide=html,css" alt="Lenguajes más usados" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SantiagoSanchezB&theme=dark&hide_border=false&border_radius=10&background=0D1117&stroke=30363D&ring=58D9F9&fire=A78BFA&currStreakLabel=58D9F9&sideNums=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,vue,nextjs,nodejs,java,php,python,azure,aws,docker,git,mysql,linux,cs&theme=dark&perline=8" alt="Core technologies" />
 </p>
 
 <br/>
 
-<!-- ─── CONTACTO ──────────────────────────────────────────────────────────── -->
+<!-- ─── CONTACT ─────────────────────────────────────────────────────────────── -->
 
-## Contacto
+## Contact
 
 <div align="center">
 
-¿Colaboración, consultoría o una conversación técnica? **Conectemos.**
+Open to collaboration, consulting, or a technical conversation — **let's connect.**
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SantiagoSanchezB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoSanchezB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-sanchez-buitrago-206943211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Sanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-sanchez-buitrago-206943211/)
 [![Gmail](https://img.shields.io/badge/Gmail-santiago.sanchezda%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.sanchezda@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-301_384_5330-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573013845330)
 
@@ -250,4 +253,4 @@ Bogotá, Colombia
 
 </div>
 
-<!-- Repo del perfil: github.com/SantiagoSanchezB/SantiagoSanchezB -->
+<!-- Profile repo: github.com/SantiagoSanchezB/SantiagoSanchezB -->
