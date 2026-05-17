@@ -21,14 +21,14 @@
   </defs>
   <rect width="900" height="120" rx="12" fill="#0D1117"/>
   <rect x="1" y="1" width="898" height="118" rx="11" stroke="url(#glow)" stroke-width="1" fill="none" opacity="0.35"/>
-  <text x="450" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8B949E" letter-spacing="3">FULL STACK · MICROSOFT 365 · AUTOMATION</text>
+  <text x="450" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#8B949E" letter-spacing="3">FULL STACK · DIGITAL SOLUTIONS · AUTOMATION</text>
   <text x="450" y="88" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="600" fill="url(#glow)">Santiago Sánchez</text>
   <line x1="200" y1="108" x2="700" y2="108" stroke="url(#line)" stroke-width="1.5"/>
 </svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=1200&color=58D9F9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Digital+solutions+with+Microsoft+365;Node.js+%C2%B7+React+%C2%B7+Power+Platform+%C2%B7+Azure;Maintainable%2C+business-driven+products" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=450&size=24&duration=3000&pause=1400&color=58D9F9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Digital+solutions+engineer;Node.js+%C2%B7+React+%C2%B7+APIs+%C2%B7+Cloud;Automation+%26+analytics;Ship+maintainable%2C+business-driven+products" alt="Typing intro" />
 
 <br/><br/>
 
